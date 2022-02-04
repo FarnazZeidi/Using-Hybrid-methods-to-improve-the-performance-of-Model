@@ -18,6 +18,3 @@ This code is showing Hybrid methods in **Pima Diabetes Dataset** to improve the 
 
 
 Tsai, C.-F., & Chen, M.-L. (2010). Credit rating by hybrid machine learning techniques. Applied soft computing, 10(2), 374-380. 
-
-# Using-Hybrid-methods-to-improve-the-performance-of-Model
-# Using-Hybrid-methods-to-improve-the-performance-of-Model
